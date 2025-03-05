@@ -22,14 +22,7 @@
 		"noUnusedParameters": true,
 		"noFallthroughCasesInSwitch": true,
 
-		/* Paths */
-		"baseUrl": "./src", // Указываем базовый путь
-		"paths": {
-			"@components/*": ["components/*"],
-			"@hooks/*": ["hooks/*"],
-			"@utils/*": ["utils/*"],
-			"@assets/*": ["assets/*"]
-		}
+	
 	},
 	"include": ["src"]
 }
